@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{73442B87-4AD4-476C-AD6C-3F42D245E24F}|Default">
-  <MonoDevelop.Ide.ItemProperties.NumberGuessingGame FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberGuessingGame/Program.cs">
+    <Files>
+      <File FileName="NumberGuessingGame/Program.cs" Line="24" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumberGuessingGame" expanded="True">
+            <Node name="NumberGuessingGame" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NumberGuessingGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
