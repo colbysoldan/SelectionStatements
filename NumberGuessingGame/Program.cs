@@ -8,7 +8,7 @@ namespace NumberGuessingGame
         {
             //Exercise 1
 
-            /*var r = new Random();
+            var r = new Random();
             var favNumber = r.Next(1, 1000);
 
             Console.WriteLine("Try to guess my favorite number!" +
@@ -30,7 +30,7 @@ namespace NumberGuessingGame
                 Console.WriteLine("You guessed it!");
             }
 
-            Console.ReadLine();*/
+            Console.ReadLine();
 
 
             //Exercise 2
@@ -77,6 +77,8 @@ namespace NumberGuessingGame
                     Console.WriteLine("Hmmm, I don't think you'll be able to get into that one this year.");
                     break;
             }
+
+
                 Console.ReadLine();
             
         }
