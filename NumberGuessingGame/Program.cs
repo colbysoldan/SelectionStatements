@@ -20,7 +20,6 @@ namespace NumberGuessingGame
                 if (userInput > favNumber)
                 {
                     Console.WriteLine("Too high!");
-                    int.Parse(Console.ReadLine());
                 }
 
                 else if (userInput < favNumber)
@@ -39,10 +38,10 @@ namespace NumberGuessingGame
             //Exercise 2
 
             Console.WriteLine("Welcome to Hogwarts. What is your favorite school subject?");
-            string input = Console.ReadLine();
-            string faveSubject = input.ToLower();
+            
+            string faveSubject = Console.ReadLine();
 
-            switch (faveSubject)
+            switch (faveSubject.ToLower())
             {
                 case "potions":
                     Console.WriteLine("Professor Snape will be happy to hear that!");
