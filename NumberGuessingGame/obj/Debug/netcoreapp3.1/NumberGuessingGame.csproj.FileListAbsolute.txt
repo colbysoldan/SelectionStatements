@@ -1,0 +1,14 @@
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.deps.json
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.runtimeconfig.json
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.runtimeconfig.dev.json
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.dll
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/bin/Debug/netcoreapp3.1/NumberGuessingGame.pdb
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.csproj.AssemblyReference.cache
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.AssemblyInfoInputs.cache
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.AssemblyInfo.cs
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.dll
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.pdb
+/Users/huntersoldan/Desktop/csharp27/NumberGuessingGame/NumberGuessingGame/obj/Debug/netcoreapp3.1/NumberGuessingGame.genruntimeconfig.cache
